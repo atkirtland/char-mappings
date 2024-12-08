@@ -1,0 +1,376 @@
+unicode,codepoint,latex,compose,description
+𝔸,U1D538,\mathbb{A},<Multi_key> <b> <A>,mathematical bold capital A
+𝔹,U1D539,\mathbb{B},<Multi_key> <b> <B>,mathematical bold capital B
+ℂ,U2102,\mathbb{C},<Multi_key> <b> <C>,mathematical bold capital C
+𝔻,U1D53B,\mathbb{D},<Multi_key> <b> <D>,mathematical bold capital D
+𝔼,U1D53C,\mathbb{E},<Multi_key> <b> <E>,mathematical bold capital E
+𝔽,U1D53D,\mathbb{F},<Multi_key> <b> <F>,mathematical bold capital F
+𝔾,U1D53E,\mathbb{G},<Multi_key> <b> <G>,mathematical bold capital G
+ℍ,U210D,\mathbb{H},<Multi_key> <b> <H>,mathematical bold capital H
+𝕀,U1D540,\mathbb{I},<Multi_key> <b> <I>,mathematical bold capital I
+𝕁,U1D541,\mathbb{J},<Multi_key> <b> <J>,mathematical bold capital J
+𝕂,U1D542,\mathbb{K},<Multi_key> <b> <K>,mathematical bold capital K
+𝕃,U1D543,\mathbb{L},<Multi_key> <b> <L>,mathematical bold capital L
+𝕄,U1D544,\mathbb{M},<Multi_key> <b> <M>,mathematical bold capital M
+ℕ,U2115,\mathbb{N},<Multi_key> <b> <N>,mathematical bold capital N
+𝕆,U1D546,\mathbb{O},<Multi_key> <b> <O>,mathematical bold capital O
+ℙ,U2119,\mathbb{P},<Multi_key> <b> <P>,mathematical bold capital P
+ℚ,U211A,\mathbb{Q},<Multi_key> <b> <Q>,mathematical bold capital Q
+ℝ,U211D,\mathbb{R},<Multi_key> <b> <R>,mathematical bold capital R
+𝕊,U1D54A,\mathbb{S},<Multi_key> <b> <S>,mathematical bold capital S
+𝕋,U1D54B,\mathbb{T},<Multi_key> <b> <T>,mathematical bold capital T
+𝕌,U1D54C,\mathbb{U},<Multi_key> <b> <U>,mathematical bold capital U
+𝕍,U1D54D,\mathbb{V},<Multi_key> <b> <V>,mathematical bold capital V
+𝕎,U1D54E,\mathbb{W},<Multi_key> <b> <W>,mathematical bold capital W
+𝕏,U1D54F,\mathbb{X},<Multi_key> <b> <X>,mathematical bold capital X
+𝕐,U1D550,\mathbb{Y},<Multi_key> <b> <Y>,mathematical bold capital Y
+ℤ,U2124,\mathbb{Z},<Multi_key> <b> <Z>,mathematical bold capital Z
+𝕒,U1D552,\mathbb{a},<Multi_key> <b> <a>,mathematical bold small a
+𝕓,U1D553,\mathbb{b},<Multi_key> <b> <b>,mathematical bold small b
+𝕔,U1D554,\mathbb{c},<Multi_key> <b> <c>,mathematical bold small c
+𝕕,U1D555,\mathbb{d},<Multi_key> <b> <d>,mathematical bold small d
+𝕖,U1D556,\mathbb{e},<Multi_key> <b> <e>,mathematical bold small e
+𝕗,U1D557,\mathbb{f},<Multi_key> <b> <f>,mathematical bold small f
+𝕘,U1D558,\mathbb{g},<Multi_key> <b> <g>,mathematical bold small g
+𝕙,U1D559,\mathbb{h},<Multi_key> <b> <h>,mathematical bold small h
+𝕚,U1D55A,\mathbb{i},<Multi_key> <b> <i>,mathematical bold small i
+𝕛,U1D55B,\mathbb{j},<Multi_key> <b> <j>,mathematical bold small j
+𝕜,U1D55C,\mathbb{k},<Multi_key> <b> <k>,mathematical bold small k
+𝕝,U1D55D,\mathbb{l},<Multi_key> <b> <l>,mathematical bold small l
+𝕞,U1D55E,\mathbb{m},<Multi_key> <b> <m>,mathematical bold small m
+𝕟,U1D55F,\mathbb{n},<Multi_key> <b> <n>,mathematical bold small n
+𝕠,U1D560,\mathbb{o},<Multi_key> <b> <o>,mathematical bold small o
+𝕡,U1D561,\mathbb{p},<Multi_key> <b> <p>,mathematical bold small p
+𝕢,U1D562,\mathbb{q},<Multi_key> <b> <q>,mathematical bold small q
+𝕣,U1D563,\mathbb{r},<Multi_key> <b> <r>,mathematical bold small r
+𝕤,U1D564,\mathbb{s},<Multi_key> <b> <s>,mathematical bold small s
+𝕥,U1D565,\mathbb{t},<Multi_key> <b> <t>,mathematical bold small t
+𝕦,U1D566,\mathbb{u},<Multi_key> <b> <u>,mathematical bold small u
+𝕧,U1D567,\mathbb{v},<Multi_key> <b> <v>,mathematical bold small v
+𝕨,U1D568,\mathbb{w},<Multi_key> <b> <w>,mathematical bold small w
+𝕩,U1D569,\mathbb{x},<Multi_key> <b> <x>,mathematical bold small x
+𝕪,U1D56A,\mathbb{y},<Multi_key> <b> <y>,mathematical bold small y
+𝕫,U1D56B,\mathbb{z},<Multi_key> <b> <z>,mathematical bold small z
+𝟘,U1D7D8,\mathbb{0},<Multi_key> <b> <0>,mathematical double-struck digit zero
+𝟙,U1D7D9,\mathbbm{1},<Multi_key> <b> <1>,mathematical double-struck digit one
+𝟚,U1D7DA,\mathbb{2},<Multi_key> <b> <2>,mathematical double-struck digit two
+𝟛,U1D7DB,\mathbb{3},<Multi_key> <b> <3>,mathematical double-struck digit three
+𝟜,U1D7DC,\mathbb{4},<Multi_key> <b> <4>,mathematical double-struck digit four
+𝟝,U1D7DD,\mathbb{5},<Multi_key> <b> <5>,mathematical double-struck digit five
+𝟞,U1D7DE,\mathbb{6},<Multi_key> <b> <6>,mathematical double-struck digit six
+𝟟,U1D7DF,\mathbb{7},<Multi_key> <b> <7>,mathematical double-struck digit seven
+𝟠,U1D7E0,\mathbb{8},<Multi_key> <b> <8>,mathematical double-struck digit eight
+𝟡,U1D7E1,\mathbb{9},<Multi_key> <b> <9>,mathematical double-struck digit nine
+Α,U0391,\Alpha,<Multi_key> <asterisk> <A>,greek capital letter alpha
+Β,U0392,\Beta,<Multi_key> <asterisk> <B>,greek capital letter beta
+Ψ,U03A8,\Psi,<Multi_key> <asterisk> <C>,greek capital letter psi
+Δ,U0394,\Delta,<Multi_key> <asterisk> <D>,greek capital letter delta
+Ε,U0395,\varepsilon,<Multi_key> <asterisk> <E>,greek capital letter epsilon
+Φ,U03A6,\varphi,<Multi_key> <asterisk> <F>,greek capital letter phi
+Γ,U0393,\Gamma,<Multi_key> <asterisk> <G>,greek capital letter gamma
+Η,U0397,\Eta,<Multi_key> <asterisk> <H>,greek capital letter eta
+Ι,U0399,\Iota,<Multi_key> <asterisk> <I>,greek capital letter iota
+Ξ,U039E,\Xi,<Multi_key> <asterisk> <J>,greek capital letter xi
+Κ,U039A,\Kappa,<Multi_key> <asterisk> <K>,greek capital letter kappa
+Λ,U039B,\Lambda,<Multi_key> <asterisk> <L>,greek capital letter lambda
+Μ,U039C,\Mu,<Multi_key> <asterisk> <M>,greek capital letter mu
+Ν,U039D,\Nu,<Multi_key> <asterisk> <N>,greek capital letter nu
+Ο,U039F,\Omicron,<Multi_key> <asterisk> <O>,greek capital letter omicron
+Π,U03A0,\Pi,<Multi_key> <asterisk> <P>,greek capital letter pi
+Ρ,U03A1,\Rho,<Multi_key> <asterisk> <R>,greek capital letter rho
+Σ,U03A3,\Sigma,<Multi_key> <asterisk> <S>,greek capital letter sigma
+Τ,U03A4,\Tau,<Multi_key> <asterisk> <T>,greek capital letter tau
+Θ,U0398,\Theta,<Multi_key> <asterisk> <U>,greek capital letter theta
+Ω,U03A9,\Omega,<Multi_key> <asterisk> <W>,greek capital letter omega
+Χ,U03A7,\Chi,<Multi_key> <asterisk> <X>,greek capital letter chi
+Υ,U03A5,\Upsilon,<Multi_key> <asterisk> <Y>,greek capital letter upsilon
+Ζ,U0396,\Zeta,<Multi_key> <asterisk> <Z>,greek capital letter zeta
+α,U03B1,\alpha,<Multi_key> <asterisk> <a>,greek small letter alpha
+β,U03B2,\beta,<Multi_key> <asterisk> <b>,greek small letter beta
+ψ,U03C8,\psi,<Multi_key> <asterisk> <c>,greek small letter psi
+δ,U03B4,\delta,<Multi_key> <asterisk> <d>,greek small letter delta
+ϵ,U03F5,\epsilon,,
+ε,U03B5,\varepsilon,<Multi_key> <asterisk> <e>,greek small letter epsilon
+ϕ,U03D5,\phi,,
+φ,U03C6,\varphi,<Multi_key> <asterisk> <f>,greek small letter phi
+γ,U03B3,\gamma,<Multi_key> <asterisk> <g>,greek small letter gamma
+η,U03B7,\eta,<Multi_key> <asterisk> <h>,greek small letter eta
+ι,U03B9,\iota,<Multi_key> <asterisk> <i>,greek small letter iota
+ξ,U03BE,\xi,<Multi_key> <asterisk> <j>,greek small letter xi
+κ,U03BA,\kappa,<Multi_key> <asterisk> <k>,greek small letter kappa
+λ,U03BB,\lambda,<Multi_key> <asterisk> <l>,greek small letter lambda
+μ,U03BC,\mu,<Multi_key> <asterisk> <m>,greek small letter mu
+ν,U03BD,\nu,<Multi_key> <asterisk> <n>,greek small letter nu
+ο,U03BF,\omicron,<Multi_key> <asterisk> <o>,greek small letter omicron
+π,U03C0,\pi,<Multi_key> <asterisk> <p>,greek small letter pi
+ρ,U03C1,\rho,<Multi_key> <asterisk> <r>,greek small letter rho
+σ,U03C3,\sigma,<Multi_key> <asterisk> <s>,greek small letter sigma
+τ,U03C4,\tau,<Multi_key> <asterisk> <t>,greek small letter tau
+θ,U03B8,\theta,<Multi_key> <asterisk> <u>,greek small letter theta
+ω,U03C9,\omega,<Multi_key> <asterisk> <w>,greek small letter omega
+υ,U03C5,\upsilon,<Multi_key> <asterisk> <y>,greek small letter upsilon
+ς,U03C2,\varsigma,,greek small letter final sigma
+χ,U03C7,\chi,<Multi_key> <asterisk> <x>,greek small letter chi
+υ,U03C5,\upsilon,<Multi_key> <asterisk> <y>,greek small letter upsilon
+ζ,U03B6,\zeta,<Multi_key> <asterisk> <z>,greek small letter zeta
+𝒜,U1D49C,\mathcal{A},<Multi_key> <c> <A>,mathematical script capital A
+ℬ,U212C,\mathcal{B},<Multi_key> <c> <B>,mathematical script capital B
+𝒞,U1D49E,\mathcal{C},<Multi_key> <c> <C>,mathematical script capital C
+𝒟,U1D49F,\mathcal{D},<Multi_key> <c> <D>,mathematical script capital D
+ℰ,U2130,\mathcal{E},<Multi_key> <c> <E>,mathematical script capital E
+ℱ,U2131,\mathcal{F},<Multi_key> <c> <F>,mathematical script capital F
+𝒢,U1D4A2,\mathcal{G},<Multi_key> <c> <G>,mathematical script capital G
+ℋ,U210B,\mathcal{H},<Multi_key> <c> <H>,mathematical script capital H
+ℐ,U2110,\mathcal{I},<Multi_key> <c> <I>,mathematical script capital I
+𝒥,U1D4A5,\mathcal{J},<Multi_key> <c> <J>,mathematical script capital J
+𝒦,U1D4A6,\mathcal{K},<Multi_key> <c> <K>,mathematical script capital K
+ℒ,U2112,\mathcal{L},<Multi_key> <c> <L>,mathematical script capital L
+ℳ,U2133,\mathcal{M},<Multi_key> <c> <M>,mathematical script capital M
+𝒩,U1D4A9,\mathcal{N},<Multi_key> <c> <N>,mathematical script capital N
+𝒪,U1D4AA,\mathcal{O},<Multi_key> <c> <O>,mathematical script capital O
+𝒫,U1D4AB,\mathcal{P},<Multi_key> <c> <P>,mathematical script capital P
+𝒬,U1D4AC,\mathcal{Q},<Multi_key> <c> <Q>,mathematical script capital Q
+ℛ,U211B,\mathcal{R},<Multi_key> <c> <R>,mathematical script capital R
+𝒮,U1D4AE,\mathcal{S},<Multi_key> <c> <S>,mathematical script capital S
+𝒯,U1D4AF,\mathcal{T},<Multi_key> <c> <T>,mathematical script capital T
+𝒰,U1D4B0,\mathcal{U},<Multi_key> <c> <U>,mathematical script capital U
+𝒱,U1D4B1,\mathcal{V},<Multi_key> <c> <V>,mathematical script capital V
+𝒲,U1D4B2,\mathcal{W},<Multi_key> <c> <W>,mathematical script capital W
+𝒳,U1D4B3,\mathcal{X},<Multi_key> <c> <X>,mathematical script capital X
+𝒴,U1D4B4,\mathcal{Y},<Multi_key> <c> <Y>,mathematical script capital Y
+𝒵,U1D4B5,\mathcal{Z},<Multi_key> <c> <Z>,mathematical script capital Z
+𝒶,U1D4B6,\mathcal{a},<Multi_key> <c> <a>,mathematical script small a
+𝒷,U1D4B7,\mathcal{b},<Multi_key> <c> <b>,mathematical script small b
+𝒸,U1D4B8,\mathcal{c},<Multi_key> <c> <c>,mathematical script small c
+𝒹,U1D4B9,\mathcal{d},<Multi_key> <c> <d>,mathematical script small d
+ℯ,U212F,\mathcal{e},<Multi_key> <c> <e>,mathematical script small e
+𝒻,U1D4BB,\mathcal{f},<Multi_key> <c> <f>,mathematical script small f
+ℊ,U210A,\mathcal{g},<Multi_key> <c> <g>,mathematical script small g
+𝒽,U1D4BD,\mathcal{h},<Multi_key> <c> <h>,mathematical script small h
+𝒾,U1D4BE,\mathcal{i},<Multi_key> <c> <i>,mathematical script small i
+𝒿,U1D4BF,\mathcal{j},<Multi_key> <c> <j>,mathematical script small j
+𝓀,U1D4C0,\mathcal{k},<Multi_key> <c> <k>,mathematical script small k
+𝓁,U1D4C1,\mathcal{l},<Multi_key> <c> <l>,mathematical script small l
+𝓂,U1D4C2,\mathcal{m},<Multi_key> <c> <m>,mathematical script small m
+𝓃,U1D4C3,\mathcal{n},<Multi_key> <c> <n>,mathematical script small n
+ℴ,U2134,\mathcal{o},<Multi_key> <c> <o>,mathematical script small o
+𝓅,U1D4C5,\mathcal{p},<Multi_key> <c> <p>,mathematical script small p
+𝓆,U1D4C6,\mathcal{q},<Multi_key> <c> <q>,mathematical script small q
+𝓇,U1D4C7,\mathcal{r},<Multi_key> <c> <r>,mathematical script small r
+𝓈,U1D4C8,\mathcal{s},<Multi_key> <c> <s>,mathematical script small s
+𝓉,U1D4C9,\mathcal{t},<Multi_key> <c> <t>,mathematical script small t
+𝓊,U1D4CA,\mathcal{u},<Multi_key> <c> <u>,mathematical script small u
+𝓋,U1D4CB,\mathcal{v},<Multi_key> <c> <v>,mathematical script small v
+𝓌,U1D4CC,\mathcal{w},<Multi_key> <c> <w>,mathematical script small w
+𝓍,U1D4CD,\mathcal{x},<Multi_key> <c> <x>,mathematical script small x
+𝓎,U1D4CE,\mathcal{y},<Multi_key> <c> <y>,mathematical script small y
+𝓏,U1D4CF,\mathcal{z},<Multi_key> <c> <z>,mathematical script small z
+𝓐,U1D4D0,\mathcal{A},<Multi_key> <C> <A>,mathematical bold script capital A
+𝓑,U1D4D1,\mathcal{B},<Multi_key> <C> <B>,mathematical bold script capital B
+𝓒,U1D4D2,\mathcal{C},<Multi_key> <C> <C>,mathematical bold script capital C
+𝓓,U1D4D3,\mathcal{D},<Multi_key> <C> <D>,mathematical bold script capital D
+𝓔,U1D4D4,\mathcal{E},<Multi_key> <C> <E>,mathematical bold script capital E
+𝓕,U1D4D5,\mathcal{F},<Multi_key> <C> <F>,mathematical bold script capital F
+𝓖,U1D4D6,\mathcal{G},<Multi_key> <C> <G>,mathematical bold script capital G
+𝓗,U1D4D7,\mathcal{H},<Multi_key> <C> <H>,mathematical bold script capital H
+𝓘,U1D4D8,\mathcal{I},<Multi_key> <C> <I>,mathematical bold script capital I
+𝓙,U1D4D9,\mathcal{J},<Multi_key> <C> <J>,mathematical bold script capital J
+𝓚,U1D4DA,\mathcal{K},<Multi_key> <C> <K>,mathematical bold script capital K
+𝓛,U1D4DB,\mathcal{L},<Multi_key> <C> <L>,mathematical bold script capital L
+𝓜,U1D4DC,\mathcal{M},<Multi_key> <C> <M>,mathematical bold script capital M
+𝓝,U1D4DD,\mathcal{N},<Multi_key> <C> <N>,mathematical bold script capital N
+𝓞,U1D4DE,\mathcal{O},<Multi_key> <C> <O>,mathematical bold script capital O
+𝓟,U1D4DF,\mathcal{P},<Multi_key> <C> <P>,mathematical bold script capital P
+𝓠,U1D4E0,\mathcal{Q},<Multi_key> <C> <Q>,mathematical bold script capital Q
+𝓡,U1D4E1,\mathcal{R},<Multi_key> <C> <R>,mathematical bold script capital R
+𝓢,U1D4E2,\mathcal{S},<Multi_key> <C> <S>,mathematical bold script capital S
+𝓣,U1D4E3,\mathcal{T},<Multi_key> <C> <T>,mathematical bold script capital T
+𝓤,U1D4E4,\mathcal{U},<Multi_key> <C> <U>,mathematical bold script capital U
+𝓥,U1D4E5,\mathcal{V},<Multi_key> <C> <V>,mathematical bold script capital V
+𝓦,U1D4E6,\mathcal{W},<Multi_key> <C> <W>,mathematical bold script capital W
+𝓧,U1D4E7,\mathcal{X},<Multi_key> <C> <X>,mathematical bold script capital X
+𝓨,U1D4E8,\mathcal{Y},<Multi_key> <C> <Y>,mathematical bold script capital Y
+𝓩,U1D4E9,\mathcal{Z},<Multi_key> <C> <Z>,mathematical bold script capital Z
+𝓪,U1D4EA,\mathcal{a},<Multi_key> <C> <a>,mathematical bold script small a
+𝓫,U1D4EB,\mathcal{b},<Multi_key> <C> <b>,mathematical bold script small b
+𝓬,U1D4EC,\mathcal{c},<Multi_key> <C> <c>,mathematical bold script small c
+𝓭,U1D4ED,\mathcal{d},<Multi_key> <C> <d>,mathematical bold script small d
+𝓮,U1D4EE,\mathcal{e},<Multi_key> <C> <e>,mathematical bold script small e
+𝓯,U1D4EF,\mathcal{f},<Multi_key> <C> <f>,mathematical bold script small f
+𝓰,U1D4F0,\mathcal{g},<Multi_key> <C> <g>,mathematical bold script small g
+𝓱,U1D4F1,\mathcal{h},<Multi_key> <C> <h>,mathematical bold script small h
+𝓲,U1D4F2,\mathcal{i},<Multi_key> <C> <i>,mathematical bold script small i
+𝓳,U1D4F3,\mathcal{j},<Multi_key> <C> <j>,mathematical bold script small j
+𝓴,U1D4F4,\mathcal{k},<Multi_key> <C> <k>,mathematical bold script small k
+𝓵,U1D4F5,\mathcal{l},<Multi_key> <C> <l>,mathematical bold script small l
+𝓶,U1D4F6,\mathcal{m},<Multi_key> <C> <m>,mathematical bold script small m
+𝓷,U1D4F7,\mathcal{n},<Multi_key> <C> <n>,mathematical bold script small n
+𝓸,U1D4F8,\mathcal{o},<Multi_key> <C> <o>,mathematical bold script small o
+𝓹,U1D4F9,\mathcal{p},<Multi_key> <C> <p>,mathematical bold script small p
+𝓺,U1D4FA,\mathcal{q},<Multi_key> <C> <q>,mathematical bold script small q
+𝓻,U1D4FB,\mathcal{r},<Multi_key> <C> <r>,mathematical bold script small r
+𝓼,U1D4FC,\mathcal{s},<Multi_key> <C> <s>,mathematical bold script small s
+𝓽,U1D4FD,\mathcal{t},<Multi_key> <C> <t>,mathematical bold script small t
+𝓾,U1D4FE,\mathcal{u},<Multi_key> <C> <u>,mathematical bold script small u
+𝓿,U1D4FF,\mathcal{v},<Multi_key> <C> <v>,mathematical bold script small v
+𝔀,U1D500,\mathcal{w},<Multi_key> <C> <w>,mathematical bold script small w
+𝔁,U1D501,\mathcal{x},<Multi_key> <C> <x>,mathematical bold script small x
+𝔂,U1D502,\mathcal{y},<Multi_key> <C> <y>,mathematical bold script small y
+𝔃,U1D503,\mathcal{z},<Multi_key> <C> <z>,mathematical bold script small z
+𝔄,U1D504,\mathfrak{A},<Multi_key> <f> <A>,mathematical fraktur capital A
+𝔅,U1D505,\mathfrak{B},<Multi_key> <f> <B>,mathematical fraktur capital B
+𝔇,U1D507,\mathfrak{D},<Multi_key> <f> <D>,mathematical fraktur capital D
+𝔈,U1D508,\mathfrak{E},<Multi_key> <f> <E>,mathematical fraktur capital E
+𝔉,U1D509,\mathfrak{F},<Multi_key> <f> <F>,mathematical fraktur capital F
+𝔊,U1D50A,\mathfrak{G},<Multi_key> <f> <G>,mathematical fraktur capital G
+𝔍,U1D50D,\mathfrak{J},<Multi_key> <f> <J>,mathematical fraktur capital J
+𝔎,U1D50E,\mathfrak{K},<Multi_key> <f> <K>,mathematical fraktur capital K
+𝔏,U1D50F,\mathfrak{L},<Multi_key> <f> <L>,mathematical fraktur capital L
+𝔐,U1D510,\mathfrak{M},<Multi_key> <f> <M>,mathematical fraktur capital M
+𝔑,U1D511,\mathfrak{N},<Multi_key> <f> <N>,mathematical fraktur capital N
+𝔒,U1D512,\mathfrak{O},<Multi_key> <f> <O>,mathematical fraktur capital O
+𝔓,U1D513,\mathfrak{P},<Multi_key> <f> <P>,mathematical fraktur capital P
+𝔔,U1D514,\mathfrak{Q},<Multi_key> <f> <Q>,mathematical fraktur capital Q
+𝔖,U1D516,\mathfrak{S},<Multi_key> <f> <S>,mathematical fraktur capital S
+𝔗,U1D517,\mathfrak{T},<Multi_key> <f> <T>,mathematical fraktur capital T
+𝔘,U1D518,\mathfrak{U},<Multi_key> <f> <U>,mathematical fraktur capital U
+𝔙,U1D519,\mathfrak{V},<Multi_key> <f> <V>,mathematical fraktur capital V
+𝔚,U1D51A,\mathfrak{W},<Multi_key> <f> <W>,mathematical fraktur capital W
+𝔛,U1D51B,\mathfrak{X},<Multi_key> <f> <X>,mathematical fraktur capital X
+𝔜,U1D51C,\mathfrak{Y},<Multi_key> <f> <Y>,mathematical fraktur capital Y
+𝔞,U1D51E,\mathfrak{a},<Multi_key> <f> <a>,mathematical fraktur small a
+𝔟,U1D51F,\mathfrak{b},<Multi_key> <f> <b>,mathematical fraktur small b
+𝔠,U1D520,\mathfrak{c},<Multi_key> <f> <c>,mathematical fraktur small c
+𝔡,U1D521,\mathfrak{d},<Multi_key> <f> <d>,mathematical fraktur small d
+𝔢,U1D522,\mathfrak{e},<Multi_key> <f> <e>,mathematical fraktur small e
+𝔣,U1D523,\mathfrak{f},<Multi_key> <f> <f>,mathematical fraktur small f
+𝔤,U1D524,\mathfrak{g},<Multi_key> <f> <g>,mathematical fraktur small g
+𝔥,U1D525,\mathfrak{h},<Multi_key> <f> <h>,mathematical fraktur small h
+𝔦,U1D526,\mathfrak{i},<Multi_key> <f> <i>,mathematical fraktur small i
+𝔧,U1D527,\mathfrak{j},<Multi_key> <f> <j>,mathematical fraktur small j
+𝔨,U1D528,\mathfrak{k},<Multi_key> <f> <k>,mathematical fraktur small k
+𝔩,U1D529,\mathfrak{l},<Multi_key> <f> <l>,mathematical fraktur small l
+𝔪,U1D52A,\mathfrak{m},<Multi_key> <f> <m>,mathematical fraktur small m
+𝔫,U1D52B,\mathfrak{n},<Multi_key> <f> <n>,mathematical fraktur small n
+𝔬,U1D52C,\mathfrak{o},<Multi_key> <f> <o>,mathematical fraktur small o
+𝔭,U1D52D,\mathfrak{p},<Multi_key> <f> <p>,mathematical fraktur small p
+𝔮,U1D52E,\mathfrak{q},<Multi_key> <f> <q>,mathematical fraktur small q
+𝔯,U1D52F,\mathfrak{r},<Multi_key> <f> <r>,mathematical fraktur small r
+𝔰,U1D530,\mathfrak{s},<Multi_key> <f> <s>,mathematical fraktur small s
+𝔱,U1D531,\mathfrak{t},<Multi_key> <f> <t>,mathematical fraktur small t
+𝔲,U1D532,\mathfrak{u},<Multi_key> <f> <u>,mathematical fraktur small u
+𝔳,U1D533,\mathfrak{v},<Multi_key> <f> <v>,mathematical fraktur small v
+𝔴,U1D534,\mathfrak{w},<Multi_key> <f> <w>,mathematical fraktur small w
+𝔵,U1D535,\mathfrak{x},<Multi_key> <f> <x>,mathematical fraktur small x
+𝔶,U1D536,\mathfrak{y},<Multi_key> <f> <y>,mathematical fraktur small y
+𝔷,U1D537,\mathfrak{z},<Multi_key> <f> <z>,mathematical fraktur small z
+↪,U21AA,\hookrightarrow,<Multi_key> <parenleft> <minus> <greater>,rightwards arrow with hook
+←,U2190,\gets,<Multi_key> <less> <minus>,
+→,U2192,\to,<Multi_key> <minus> <greater>,
+↦,U21A6,\mapsto,<Multi_key> <bar> <minus> <greater>,
+⇒,U21D2,\Rightarrow,<Multi_key> <equal> <greater>,RIGHTWARDS DOUBLE ARROW
+⇐,U21D0,\Leftarrow,<Multi_key> <less> <equal>,LEFTWARDS DOUBLE ARROW
+⇔,U21D4,\Leftrightarrow,<Multi_key> <equal> <less> <greater>,LEFT RIGHT DOUBLE ARROW
+⇏,U21CF,\nRightarrow,<Multi_key> <exclam> <equal> <greater>,
+⊊,U228A,\subsetneq,<Multi_key> <parenleft> <exclam> <equal>,SUBSET NOT EQUAL
+≐,U2250,\doteq,<Multi_key> <period> <equal>,
+∖,U2216,\setminus,<Multi_key> <backslash> <backslash>,
+⊢,U22A2,\vdash,<Multi_key> <bar> <minus> <space>,RIGHT TACK
+⊣,U22A3,\dashv,<Multi_key> <minus> <bar>,LEFT TACK
+⊨,U22A8,\models,<Multi_key> <bar> <equal>,
+≡,U2261,\equiv,<Multi_key> <equal> <equal>,IDENTICAL TO
+≔,U2254,\coloneqq,<Multi_key> <colon> <equal>,COLON EQUALS
+≕,U2255,\eqcolon,<Multi_key> <equal> <colon>,EQUALS COLON
+¬,U00AC,\neg,<Multi_key> <minus> <comma>,NOT SIGN
+⌊,U230A,\left\lfloor,<Multi_key> <L> <bracketleft>,LEFT FLOOR
+⌋,U230B,\right\rfloor,<Multi_key> <L> <bracketright>,RIGHT FLOOR
+⌈,U2308,\left\lceil,<Multi_key> <7> <bracketleft>,LEFT CEILING
+⌉,U2309,\right\rceil,<Multi_key> <7> <bracketright>,RIGHT CEILING
+⊕,U2295,\oplus,<Multi_key> <O> <plus>,CIRCLED PLUS
+⨁,U2A01,\bigoplus,,N-ARY CIRCLED PLUS OPERATOR
+⊖,U2296,\ominus,<Multi_key> <O> <minus>,CIRCLED MINUS
+⊗,U2297,\otimes,<Multi_key> <O> <x>,CIRCLED TIMES
+⨂,U2A02,\bigotimes,,N-ARY CIRCLED TIMES OPERATOR
+∧,U2227,\wedge,<Multi_key> <slash> <backslash>,LOGICAL AND
+∨,U2228,\vee,<Multi_key> <backslash> <slash>,LOGICAL OR
+≪,U226A,\ll,<Multi_key> <less> <less>,MUCH LESS-THAN
+≫,U226B,\gg,<Multi_key> <greater> <greater>,MUCH GREATER-THAN
+∘,U2218,\circ,<Multi_key> <Multi_key> <asterisk> <o>,RING OPERATOR
+⨯,U2A2F,\times,<Multi_key> <Multi_key> <asterisk> <x>,CROSS PRODUCT
+⋅,U22C5,\cdot,<Multi_key> <Multi_key> <asterisk> <period>,DOT OPERATOR
+∅,U2205,\emptyset,<Multi_key> <0> <slash>,EMPTY SET
+∅,U2205,\emptyset,<Multi_key> <slash> <0>,EMPTY SET
+∪,U222A,\cup,<Multi_key> <braceleft> <U>,UNION
+∩,U2229,\cap,<Multi_key> <braceleft> <asciicircum>,INTERSECTION
+⊂,U2282,\subset,<Multi_key> <braceleft> <parenleft>,SUBSET OF
+⊆,U2286,\subseteq,<Multi_key> <braceleft> <equal> <parenleft>,SUBSET OF OR EQUAL TO
+⊄,U2284,\nsubseteq,<Multi_key> <exclam> <braceleft> <parenleft>,NOT A SUBSET OF
+⊄,U2284,\nsubseteq,<Multi_key> <slash> <braceleft> <parenleft>,NOT A SUBSET OF
+⊃,U2283,\supset,<Multi_key> <braceleft> <parenright>,SUPERSET OF
+⊇,U2287,\supseteq,<Multi_key> <braceleft> <equal> <parenright>,SUPERSET OF OR EQUAL TO
+≠,U2260,\neq,<Multi_key> <n> <e>,NOT EQUAL TO
+≤,U2264,\leq,<Multi_key> <l> <e>,LESS-THAN OR EQUAL TO
+≥,U2265,\geq,<Multi_key> <g> <e>,GREATER-THAN OR EQUAL TO
+⊏,U228F,\sqsubset,<Multi_key> <bracketleft> <bracketleft>,SQUARE IMAGE OF
+⊑,U2291,\sqsubseteq,<Multi_key> <bracketleft> <equal>,SQUARE IMAGE OF OR EQUAL TO
+⊑,U2291,\sqsubseteq,<Multi_key> <bracketleft> <underscore>,SQUARE IMAGE OF OR EQUAL TO
+⊐,U2290,\sqsupset,<Multi_key> <bracketright> <bracketright>,SQUARE ORIGINAL OF
+⊒,U2292,\sqsupseteq,<Multi_key> <bracketright> <equal>,SQUARE ORIGINAL OF OR EQUAL TO
+⊒,U2292,\sqsupseteq,<Multi_key> <bracketright> <underscore>,SQUARE ORIGINAL OF OR EQUAL TO
+∑,U2211,\sum,<Multi_key> <s> <u> <m>,N-ARY SUMMATION
+∏,U220F,\prod,<Multi_key> <p> <r> <o> <d>,N-ARY PRODUCT
+‖,U2016,\Vert,<Multi_key> <v> <e> <r> <t>,DOUBLE VERTICAL LINE
+∣,U2223,\mid,<Multi_key> <m> <i> <d>,
+∤,U2224,\nmid,<Multi_key> <n> <m> <i> <d>,
+∝,U221D,\propto,<Multi_key> <p> <r> <o> <p>,
+∇,U2207,\nabla,<Multi_key> <d> <e> <l>,NABLA
+∂,U2202,\partial,<Multi_key> <p> <a> <r> <t>,PARTIAL DIFFERENTIAL
+∼,U223C,\sim,<Multi_key> <s> <i> <m>,
+～,UFF5E,\sim,<Multi_key> <Multi_key> <asciitilde> <asciitilde>,
+∫,U222B,\int,<Multi_key> <i> <n> <t> <space>,INTEGRAL
+∬,U222C,\iint,<Multi_key> <i> <n> <t> <2> <space>,DOUBLE INTEGRAL
+∭,U222D,\iiint,<Multi_key> <i> <n> <t> <3> <space>,TRIPLE INTEGRAL
+∮,U222E,\oint,<Multi_key> <i> <n> <t> <o>,CONTOUR INTEGRAL
+∯,U222F,\oiint,<Multi_key> <i> <n> <t> <2> <o>,SURFACE INTEGRAL
+∰,U2230,\oiiint,<Multi_key> <i> <n> <t> <3> <o>,VOLUME INTEGRAL
+⊤,U22A4,\top,<Multi_key> <l> <t> <o> <p>,DOWN TACK (opposite of False)
+⊥,U22A5,\bot,<Multi_key> <l> <b> <o> <t>,UP TACK
+⟂,U27C2,\perp,<Multi_key> <underscore> <bar> <underscore>,PERPENDICULAR
+⫫,U2AEB,,<Multi_key> <underscore> <bar> <bar> <underscore>,
+†,U2020,\dagger,<Multi_key> <d> <a> <g>,DAGGER
+ℜ,U211C,\Re,<Multi_key> <R> <e>,BLACK-LETTER CAPITAL R (Real Part)
+ℑ,U2111,\Im,<Multi_key> <I> <m>,BLACK-LETTER CAPITAL I (Imaginary Part)
+ℵ,U2135,\aleph,<Multi_key> <Multi_key> <a> <l> <e> <p> <h>,ALEF SYMBOL
+∈,U2208,\in,<Multi_key> <i> <n> <space>,ELEMENT OF
+∉,U2209,\not\in,<Multi_key> <exclam> <i> <n>,NOT AN ELEMENT OF
+∋,U220B,\ni,<Multi_key> <n> <i>,CONTAINS AS MEMBER
+∌,U220C,\notni,<Multi_key> <exclam> <n> <i>,DOES NOT CONTAIN AS MEMBER
+∃,U2203,\exists,<Multi_key> <E> <E>,THERE EXISTS
+∄,U2204,\nexists,<Multi_key> <exclam> <E>,THERE DOES NOT EXIST
+∀,U2200,\forall,<Multi_key> <A> <A>,FOR ALL
+∞,U221E,\infty,<Multi_key> <8> <8>,INFINITY
+ℓ,U2113,\ell,<Multi_key> <l> <l>,SCRIPT SMALL L
+≅,U2245,\cong,<Multi_key> <asciitilde> <equal>,APPROXIMATELY EQUAL TO
+⊔,U2294,\sqcup,,SQUARE CUP
+÷,U00F7,\div,,DIVISION SIGN
+⋮,U22EE,\vdots,<Multi_key> <bar> <period> <period>,VERTICAL ELLIPSIS
+⋯,U22EF,\cdots,<Multi_key> <minus> <period> <period>,MIDLINE HORIZONTAL ELLIPSIS
+…,U2026,\ifmmode\ldots\else\textellipsis\fi,<Multi_key> <period> <period> <period>,HORIZONTAL ELLIPSIS
+⋰,U22F0,\udots,<Multi_key> <slash> <period> <period>,UP RIGHT DIAGONAL ELLIPSIS
+⋱,U22F1,\ddots,<Multi_key> <backslash> <period> <period>,DOWN RIGHT DIAGONAL ELLIPSIS
+∴,U2234,\therefore,<Multi_key> <t> <h> <e>,THEREFORE
+ℵ₀,,\aleph_0,<Multi_key> <Multi_key> <a> <l> <e> <p> <0>,ALEF Null
+ℵ₁,,\aleph_1,<Multi_key> <Multi_key> <a> <l> <e> <p> <1>,ALEF One
+📍,,\emoji{round-pushpin},<Multi_key> <e> <l>, 
+±,U00B1,\pm,<Multi_key> <plus> <minus>,PLUS-MINUS SIGN
+≈,U2248,\approx,<Multi_key> <asciitilde> <asciitilde>,ALMOST EQUAL TO
+\^{-1},,,<Multi_key> <minus> <1>,
+\int_{∞}^{∞},,,<Multi_key> <i> <n> <t> <8>,
+\\abs{,,,<Multi_key> <p> <a> <space>,
+\\angles{,,,<Multi_key> <p> <g>,
+\\parens{,,,<Multi_key> <p> <p>,
+\\sqbracks{,,,<Multi_key> <p> <q>,
+\\bracks{,,,<Multi_key> <p> <b>,
+\\norm{,,,<Multi_key> <p> <n>,
+⋉,U22C9,\ltimes,<Multi_key> <l> <t> <i> <m> <e> <s>,LEFT NORMAL FACTOR SEMIDIRECT PRODUCT
+⋊,U22CA,\rtimes,<Multi_key> <r> <t> <i> <m> <e> <s>,RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT
