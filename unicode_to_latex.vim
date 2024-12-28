@@ -274,6 +274,11 @@ silent! %s/⇒/\\Rightarrow/gc
 silent! %s/⇐/\\Leftarrow/gc
 silent! %s/⇔/\\Leftrightarrow/gc
 silent! %s/⇏/\\nRightarrow/gc
+silent! %s/↑/\\uparrow/gc
+silent! %s/↓/\\downarrow/gc
+silent! %s/⇉/\\rightrightarrows/gc
+silent! %s/⇓/\\Downarrow/gc
+silent! %s/⇀/\\rightharpoonup/gc
 silent! %s/⊊/\\subsetneq/gc
 silent! %s/≐/\\doteq/gc
 silent! %s/∖/\\setminus/gc
@@ -300,6 +305,7 @@ silent! %s/≫/\\gg/gc
 silent! %s/∘/\\circ/gc
 silent! %s/⨯/\\times/gc
 silent! %s/⋅/\\cdot/gc
+silent! %s/∗/\\ast/gc
 silent! %s/∅/\\emptyset/gc
 silent! %s/∅/\\emptyset/gc
 silent! %s/∪/\\cup/gc
@@ -367,3 +373,9 @@ silent! %s/±/\\pm/gc
 silent! %s/≈/\\approx/gc
 silent! %s/⋉/\\ltimes/gc
 silent! %s/⋊/\\rtimes/gc
+silent! %s/‐/\\hyphen/gc
+silent! %s/‒/\\figuredash/gc
+silent! %s/–/\\endash/gc
+silent! %s/—/\\emdash/gc
+silent! %s/―/\\horizbar/gc
+silent! %s/−/\\minus/gc

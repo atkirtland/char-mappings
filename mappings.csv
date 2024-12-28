@@ -272,6 +272,11 @@ unicode,codepoint,latex,compose,description
 ⇐,U21D0,\Leftarrow,<Multi_key> <less> <equal>,LEFTWARDS DOUBLE ARROW
 ⇔,U21D4,\Leftrightarrow,<Multi_key> <equal> <less> <greater>,LEFT RIGHT DOUBLE ARROW
 ⇏,U21CF,\nRightarrow,<Multi_key> <exclam> <equal> <greater>,
+↑,U2191,\uparrow,<Multi_key> <circumflex> <bar>,UPWARDS ARROW
+↓,U2193,\downarrow,<Multi_key> <bar> <circumflex>,DOWNWARDS ARROW
+⇉,U21C9,\rightrightarrows,<Multi_key> <minus> <minus>,RIGHTWARDS PAIRED ARROWS
+⇓,U21D3,\Downarrow,<Multi_key> <bar> <bar>,DOWNWARDS DOUBLE ARROW
+⇀,U21C0,\rightharpoonup,<Multi_key> <minus> <backslash>,RIGHTWARDS HARPOON WITH BARB UPWARDS
 ⊊,U228A,\subsetneq,<Multi_key> <parenleft> <exclam> <equal>,SUBSET NOT EQUAL
 ≐,U2250,\doteq,<Multi_key> <period> <equal>,
 ∖,U2216,\setminus,<Multi_key> <backslash> <backslash>,
@@ -298,6 +303,7 @@ unicode,codepoint,latex,compose,description
 ∘,U2218,\circ,<Multi_key> <Multi_key> <asterisk> <o>,RING OPERATOR
 ⨯,U2A2F,\times,<Multi_key> <Multi_key> <asterisk> <x>,CROSS PRODUCT
 ⋅,U22C5,\cdot,<Multi_key> <Multi_key> <asterisk> <period>,DOT OPERATOR
+∗,U2217,\ast,<Multi_key> <asterisk> <asterisk>,ASTERISK OPERATOR
 ∅,U2205,\emptyset,<Multi_key> <0> <slash>,EMPTY SET
 ∅,U2205,\emptyset,<Multi_key> <slash> <0>,EMPTY SET
 ∪,U222A,\cup,<Multi_key> <braceleft> <U>,UNION
@@ -374,3 +380,9 @@ unicode,codepoint,latex,compose,description
 \\norm{,,,<Multi_key> <p> <n>,
 ⋉,U22C9,\ltimes,<Multi_key> <l> <t> <i> <m> <e> <s>,LEFT NORMAL FACTOR SEMIDIRECT PRODUCT
 ⋊,U22CA,\rtimes,<Multi_key> <r> <t> <i> <m> <e> <s>,RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT
+‐,U2010,\hyphen,<Multi_key> <d> <h> <y>,HYPHEN
+‒,U2012,\figuredash,<Multi_key> <d> <f> <d>,FIGURE DASH
+–,U2013,\endash,<Multi_key> <d> <e> <n>,EN DASH
+—,U2014,\emdash,<Multi_key> <d> <e> <m>,EM DASH
+―,U2015,\horizbar,<Multi_key> <d> <h> <b>,HORIZONTAL BAR
+−,U2212,\minus,<Multi_key> <minus> <space>,MINUS SIGN
