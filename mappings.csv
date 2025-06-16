@@ -272,8 +272,8 @@ unicode,codepoint,latex,compose,description
 ⇐,U21D0,\Leftarrow,<Multi_key> <less> <equal>,LEFTWARDS DOUBLE ARROW
 ⇔,U21D4,\Leftrightarrow,<Multi_key> <equal> <less> <greater>,LEFT RIGHT DOUBLE ARROW
 ⇏,U21CF,\nRightarrow,<Multi_key> <exclam> <equal> <greater>,
-↑,U2191,\uparrow,<Multi_key> <circumflex> <bar>,UPWARDS ARROW
-↓,U2193,\downarrow,<Multi_key> <bar> <circumflex>,DOWNWARDS ARROW
+↑,U2191,\uparrow,<Multi_key> <dead_circumflex> <bar>,UPWARDS ARROW
+↓,U2193,\downarrow,<Multi_key> <bar> <dead_circumflex>,DOWNWARDS ARROW
 ⇉,U21C9,\rightrightarrows,<Multi_key> <minus> <minus>,RIGHTWARDS PAIRED ARROWS
 ⇓,U21D3,\Downarrow,<Multi_key> <bar> <bar>,DOWNWARDS DOUBLE ARROW
 ⇀,U21C0,\rightharpoonup,<Multi_key> <minus> <backslash>,RIGHTWARDS HARPOON WITH BARB UPWARDS
@@ -367,7 +367,10 @@ unicode,codepoint,latex,compose,description
 ∴,U2234,\therefore,<Multi_key> <t> <h> <e>,THEREFORE
 ℵ₀,,\aleph_0,<Multi_key> <Multi_key> <a> <l> <e> <p> <0>,ALEF Null
 ℵ₁,,\aleph_1,<Multi_key> <Multi_key> <a> <l> <e> <p> <1>,ALEF One
-📍,,\emoji{round-pushpin},<Multi_key> <e> <l>, 
+📍,,\emoji{round-pushpin},<Multi_key> <e> <l>,
+🔣,,\emoji{round-pushpin},<Multi_key> <e> <p>,
+🟰,,\emoji{round-pushpin},<Multi_key> <e> <a>,
+❔,,\emoji{round-pushpin},<Multi_key> <e> <q>,
 ±,U00B1,\pm,<Multi_key> <plus> <minus>,PLUS-MINUS SIGN
 ≈,U2248,\approx,<Multi_key> <asciitilde> <asciitilde>,ALMOST EQUAL TO
 \^{-1},,,<Multi_key> <minus> <1>,
@@ -386,3 +389,4 @@ unicode,codepoint,latex,compose,description
 —,U2014,\emdash,<Multi_key> <d> <e> <m>,EM DASH
 ―,U2015,\horizbar,<Multi_key> <d> <h> <b>,HORIZONTAL BAR
 −,U2212,\minus,<Multi_key> <minus> <space>,MINUS SIGN
+⇋,U21CB,\leftrightharpoons,<Multi_key> <l> <r> <h>,LEFT RIGHT HARPOON WITH BARB UPWARDS AND DOWNWARDS

@@ -369,6 +369,9 @@ silent! %s/∴/\\therefore/gc
 silent! %s/ℵ₀/\\aleph_0/gc
 silent! %s/ℵ₁/\\aleph_1/gc
 silent! %s/📍/\\emoji\{round\-pushpin\}/gc
+silent! %s/🔣/\\emoji\{round\-pushpin\}/gc
+silent! %s/🟰/\\emoji\{round\-pushpin\}/gc
+silent! %s/❔/\\emoji\{round\-pushpin\}/gc
 silent! %s/±/\\pm/gc
 silent! %s/≈/\\approx/gc
 silent! %s/⋉/\\ltimes/gc
@@ -379,3 +382,4 @@ silent! %s/–/\\endash/gc
 silent! %s/—/\\emdash/gc
 silent! %s/―/\\horizbar/gc
 silent! %s/−/\\minus/gc
+silent! %s/⇋/\\leftrightharpoons/gc
